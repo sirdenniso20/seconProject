@@ -1,0 +1,44 @@
+Task 1:  Answer the questions and email me in a text file
+
+1.	Explain what is computer programming in your own language? What is the use of compiler or interpreter? 
+Answer: 
+a.	Computer programming is the process where a person writes codes to instruct computer to perform certain functionalities.
+b.	Compiler or interpreter translate human written codes into machine readable format
+
+
+2.	Why we do automation? When it is important to do automation testing? 
+Answer: 
+a.	Because automation enables the tester to test large number of test cases rigorously for the purpose of ensuring that software is free from bugs or defect. 
+b.	We do automation testing when there is a new build. After Smoke testing and Sanity testing has been performed, we conduct Automation Testing to perform Regression Testing to make sure that the new build has no effect on the existing builds.
+
+
+3.	What are variables in java, what are datatypes? What kind of datatype you are familiar and what kind of data those variables can store? 
+Answer:
+a.	A variable in Java is a memory which holds data. Data is always assigned to a variable in Java coding
+b.	Data types identify the type of data that can be assigned to the variable
+c.	Datatypes I am familiar with and the data those variables can store are as follows,
+integer = enable variables to store whole numbers such as 1,2,3,400,1000
+double = enable variable to store decimal number such as 1.34, and 90.05
+String = enable variables to store a word, a sentence, or any static alpha numerical values and symbol
+
+
+4.	How to setup java environment, please explain the usages of jdk and eclipse? 
+Answer: 
+a.	To set up a java environment, one would need, to download and install Java Development Kit (JDK) and eclipse IDE. 
+b.	JDK is a Java compiler which translates human written code into machine readable format. 
+c.	Eclipse IDE is a software development editor which allows users to write codes and it uses or relies on the JDK compiler to run the code.
+
+
+5.	What is a Boolean variable, how it is related with if/else condition? 
+Answer: 
+a.	Boolean variable store data that is either True or False about conditions describe in software coding.
+b.	Boolean variable analysis the if/else condition and determine the accurate results.
+
+
+6.	What is main method of java, and why it is important to use?
+Answer: 
+a.	The main method in Java is: public static void main(String[] args) 
+	{
+	}
+b.	Java main method is important because it is the program execution starting point.
+
